@@ -1,2 +1,2 @@
 # Class
-change
+new change
